@@ -1,5 +1,23 @@
 ### Hi there 👋
-# Miquel Vera
+
+#### Work in progress
+Currently working on [Analisis Financiero del Sector Público](https://github.com/MiquelVera/AnalisisFinancieroSectorPublico)
+
+#### Skills
+HTML5
+CSS3
+PHP
+JavaScript
+MySQL
+MongoDB
+XML
+Java
+C
+C++
+Python
+
+#### Contact
+miquelveraramis@gmail.com
 
 <!--
 **MiquelVera/MiquelVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
